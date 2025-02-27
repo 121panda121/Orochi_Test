@@ -55,4 +55,4 @@ function stopAutoClick() {
     console.log("Auto click stopped");
 }
 ```   
-                                                                                                                                                                                                        Twitter：@longyueting
+                                                Twitter：@longyueting
