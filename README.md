@@ -54,4 +54,5 @@ function stopAutoClick() {
     clearInterval();
     console.log("Auto click stopped");
 }
-```
+```   
+                                                                                                                                                                                                        Twitter：@longyueting
